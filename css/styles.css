@@ -1,7 +1,6 @@
 .image {
     width: 300px;
 }
-.custom-table{
-    border: 2px solid black;
-    border-radius: 40px;
-}
+.custom-table {
+    border-radius: 20px;
+   }

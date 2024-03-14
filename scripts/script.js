@@ -52,7 +52,7 @@ function actualizarTabla(){
         //BOTÓN
         let boton = document.createElement("button")
         boton.textContent= "Eliminar"
-
+        boton.classList.add("btn","btn-danger")
         celdaBoton.append(boton)
 
         boton.addEventListener('click', function(){

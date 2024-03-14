@@ -1,3 +1,22 @@
 {
-  "carrito": []
+  "carrito": [
+    {
+      "id": "7",
+      "producto": "LG C1",
+      "precio": 1499,
+      "cantidad": 1
+    },
+    {
+      "id": "6",
+      "producto": "PlayStation 5",
+      "precio": 499,
+      "cantidad": 1
+    },
+    {
+      "id": "5",
+      "producto": "Sony WH-1000XM4",
+      "precio": 349,
+      "cantidad": 1
+    }
+  ]
 }
