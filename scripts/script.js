@@ -23,11 +23,9 @@ function agregarProducto (id, producto, precio){
     
     console.log(carrito);
     
-    //actualizarTabla()
     enviarACarritoServidor(datos)
 
 
-   // enviarACarritoServidor(carrito)
 }
 
 function actualizarTabla(){
